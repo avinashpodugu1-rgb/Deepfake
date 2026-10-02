@@ -83,7 +83,7 @@ Dataset used for this project:
 **FDS Dataset Deepfake**
 
 Kaggle:
-https://www.kaggle.com/datasets/avinashpodugu/fds-dataset-deepfake
+https://www.kaggle.com/datasets/rohithsaikambhampati/ai-generated-vs-real-images-dataset
 
 The intended dataset organization is:
 
